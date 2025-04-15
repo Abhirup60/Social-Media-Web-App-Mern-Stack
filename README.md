@@ -42,16 +42,15 @@ This project is a full-stack social media web application 🌐 that has been dev
 
 ### **Login Page**  :
 
-Update readme file
+<img src="./images/login.png"/>
 
 ### **Home Page :** 
  
-Update readme file
+<img src="./images/home.png"/>
 
 ### **User Profile Page**  :
 
-
-
+<img src="./images/profile.png"/>
 
 #### **What you need to run this application:**
 
