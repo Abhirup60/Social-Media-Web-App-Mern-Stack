@@ -1,4 +1,4 @@
-
+<h3>Yet to deploy</h3>
 # Social Media Web App
 
 This project is a full-stack social media web application 🌐 that has been developed using the **MERN stack 🖥️** and **Rest API 🚀**, In this social media platform where you can share posts, like/unlike posts, Follow/Unfollow users and more.
@@ -65,8 +65,6 @@ Update readme file
 - Make sure MongoDB is running on your system or online.
 - Clone this repository
 - Open command line in the cloned folder,
-    - To install dependencies for frontend , run  `npm install` in `/client` folder.
     - To run frontend type command `npm start` in `/client` folder.
-    - To install dependencies for backend, run  `npm install` in `/server` folder.
-    - To run backend type command `nodemon` in server folder.
+    - To run backend type command `nodemon index.js` in server folder.
     
