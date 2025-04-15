@@ -38,7 +38,7 @@ This project is a full-stack social media web application 🌐 that has been dev
 
 ### **SignUp/Register Page**  :
 
-yet to Update readme file
+<img src="./images/signup.png"/>
 
 ### **Login Page**  :
 
